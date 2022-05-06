@@ -1,0 +1,5 @@
+name: dz-freinds
+api: 4.0.0
+version: 1.0BETA-TESTING
+main: dz\Loader
+author: dhnnz
